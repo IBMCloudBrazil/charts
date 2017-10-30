@@ -16,6 +16,6 @@ entries:
     sources:
     - https://github.com/openldap/openldap
     urls:
-    - openldap-0.1.0.tgz
+    - https://raw.githubusercontent.com/IBMCloudBrazil/charts/master/openldap-0.1.0.tgz
     version: 0.1.0
 generated: 2017-10-30T19:18:05.688828852-02:00
