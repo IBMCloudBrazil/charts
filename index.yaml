@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  openldap:
+  - apiVersion: v1
+    created: 2017-10-30T19:18:05.68932519-02:00
+    description: A OpenLDAP Chart for Kubernetes
+    digest: 66bdc68f00e0d903feea2ca605e861f342fc8ff3e8d69e414eebf794b29a0de1
+    engine: gotpl
+    home: https://www.openldap.ort
+    keywords:
+    - ldap
+    maintainers:
+    - email: keyolk@gmail.com
+      name: Chanhun Jeong
+    name: openldap
+    sources:
+    - https://github.com/openldap/openldap
+    urls:
+    - openldap-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-10-30T19:18:05.688828852-02:00
