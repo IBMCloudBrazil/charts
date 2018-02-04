@@ -1,6 +1,6 @@
 OpenLdap:
-  Image: "docker.io/jmbarros/openldap"
-  ImageTag: "1.1.7"
+  Image: "osixia/openldap"
+  ImageTag: "1.1.10"
   ImagePullPolicy: "Always"
   Component: "openldap"
 
